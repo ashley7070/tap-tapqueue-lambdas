@@ -1,0 +1,16 @@
+{
+  "name": "tapqueue_update_analytics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alias M Nidhin Peter",
+  "license": "ISC",
+  "dependencies": {
+    "async-each-series": "^1.1.0",
+    "json2csv": "^3.11.5",
+    "moment": "^2.20.1"
+  }
+}
